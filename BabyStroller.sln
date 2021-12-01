@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStroller.App", "BabyStroller.App\BabyStroller.App.csproj", "{81C5B063-95C2-4401-857D-C3F973EAFBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyStroller.SDK", "BabyStroller.SDK\BabyStroller.SDK.csproj", "{9B85AC2E-F757-4FAF-9191-5B9254329CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81C5B063-95C2-4401-857D-C3F973EAFBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C5B063-95C2-4401-857D-C3F973EAFBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C5B063-95C2-4401-857D-C3F973EAFBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C5B063-95C2-4401-857D-C3F973EAFBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B85AC2E-F757-4FAF-9191-5B9254329CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B85AC2E-F757-4FAF-9191-5B9254329CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B85AC2E-F757-4FAF-9191-5B9254329CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B85AC2E-F757-4FAF-9191-5B9254329CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

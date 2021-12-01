@@ -1,0 +1,10 @@
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/bin/Debug/netcoreapp3.1/BabyStroller.SDK.deps.json
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/bin/Debug/netcoreapp3.1/BabyStroller.SDK.dll
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/bin/Debug/netcoreapp3.1/BabyStroller.SDK.pdb
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/obj/Debug/netcoreapp3.1/BabyStroller.SDK.csproj.AssemblyReference.cache
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/obj/Debug/netcoreapp3.1/BabyStroller.SDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/obj/Debug/netcoreapp3.1/BabyStroller.SDK.AssemblyInfoInputs.cache
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/obj/Debug/netcoreapp3.1/BabyStroller.SDK.AssemblyInfo.cs
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/obj/Debug/netcoreapp3.1/BabyStroller.SDK.csproj.CoreCompileInputs.cache
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/obj/Debug/netcoreapp3.1/BabyStroller.SDK.dll
+/Users/haozhang/RiderProjects/BabyStroller/BabyStroller.SDK/obj/Debug/netcoreapp3.1/BabyStroller.SDK.pdb
